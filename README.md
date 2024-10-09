@@ -44,7 +44,7 @@ Make sure you have Python 3.8 or higher installed on your machine. You will also
 3. Ensure that you have an image file named `download.jpeg` in the same directory or update the `image_path` variable in `client.py` to point to your desired image.
 4. Run the client:
    ```bash
-   python client.py
+   streamlit run client.py
    ```
 5. The client will send the image and question to the server and print the streamed response.
 
