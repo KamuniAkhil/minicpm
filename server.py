@@ -86,4 +86,4 @@ async def ask(
 
 if __name__ == '__main__':
     import uvicorn
-    uvicorn.run(app, host='192.168.0.233', port=5000)
+    uvicorn.run(app, port=5000)
