@@ -5,7 +5,7 @@ This project provides a FastAPI server for processing images and answering quest
 ## Requirements
 
 Make sure you have Python 3.8 or higher installed on your machine. You will also need to install the required packages listed in `requirements.txt`.
-
+Your system must have CUDA == 12.1 to run server.py
 ## Installation
 
 1. Clone this repository or download the files to your local machine.
